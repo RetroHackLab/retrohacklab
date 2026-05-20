@@ -1,7 +1,16 @@
 # 👋 Hello There! My name is Omar, also known as RetroHackLab 🇹🇳
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/274773600?v=4" width="200" style="border-radius: 50%;" alt="Omar - RetroHackLab Profile Avatar">
+  <table border="0" style="border-collapse: collapse;">
+    <tr>
+      <td valign="middle">
+        <img src="https://avatars.githubusercontent.com/u/274773600?v=4" width="200" style="border-radius: 50%;" alt="Omar - RetroHackLab Profile Avatar">
+      </td>
+      <td valign="middle" style="padding-left: 10px;">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MVtySN3N04GG0X8Nj_-UQ8yhmSyIajABkA&s" alt="Decorative Icon">
+      </td>
+    </tr>
+  </table>
   
   ### 🛠️ System Architecture | Software Engineering | Retro Security Research
   
@@ -52,3 +61,8 @@ I have a deep love for general Computer Science, modern web browsing, and system
 <div align="center">
   🍏 <i>"The best way to understand a system is to reverse it, secure it, or simulate it safely."</i>
 </div>
+
+## 🌐 Find Me Online
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@ps3gururetrohacklab) 
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/YOUR_REDDIT_USERNAME_HERE)
